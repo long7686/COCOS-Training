@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Bunny",
+    "texture": "e0793511-48cf-44e4-865f-81b751e02e97",
+    "atlas": "",
+    "rect": [
+      871,
+      170,
+      1166,
+      2604
+    ],
+    "offset": [
+      -46,
+      28
+    ],
+    "originalSize": [
+      3000,
+      3000
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

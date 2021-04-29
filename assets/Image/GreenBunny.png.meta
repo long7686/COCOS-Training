@@ -1,6 +1,6 @@
 {
   "ver": "2.3.3",
-  "uuid": "528df0fb-fc83-48da-b86b-e15714895675",
+  "uuid": "660012f8-de17-427e-a304-385a1655cb5b",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -11,8 +11,8 @@
   "subMetas": {
     "GreenBunny": {
       "ver": "1.0.4",
-      "uuid": "e163796a-5d33-4ec9-9d3f-d62b9b952e4e",
-      "rawTextureUuid": "528df0fb-fc83-48da-b86b-e15714895675",
+      "uuid": "58e9a041-9c50-4ffc-b499-29faa759db75",
+      "rawTextureUuid": "660012f8-de17-427e-a304-385a1655cb5b",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

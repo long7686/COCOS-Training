@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GreenBunny",
+    "texture": "660012f8-de17-427e-a304-385a1655cb5b",
+    "atlas": "",
+    "rect": [
+      871,
+      170,
+      1166,
+      2604
+    ],
+    "offset": [
+      -46,
+      28
+    ],
+    "originalSize": [
+      3000,
+      3000
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

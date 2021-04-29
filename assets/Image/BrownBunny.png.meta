@@ -1,6 +1,6 @@
 {
   "ver": "2.3.3",
-  "uuid": "f3fa885a-620b-4bd3-8606-42f1d65f8071",
+  "uuid": "029a8d8b-adbe-4247-9aaf-4261bdb56930",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -11,8 +11,8 @@
   "subMetas": {
     "BrownBunny": {
       "ver": "1.0.4",
-      "uuid": "be284738-2011-45a3-9b52-0512b83f2610",
-      "rawTextureUuid": "f3fa885a-620b-4bd3-8606-42f1d65f8071",
+      "uuid": "299d4efe-affd-448a-accc-776d74b8866f",
+      "rawTextureUuid": "029a8d8b-adbe-4247-9aaf-4261bdb56930",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

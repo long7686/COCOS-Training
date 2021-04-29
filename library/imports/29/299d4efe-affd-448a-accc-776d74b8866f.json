@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BrownBunny",
+    "texture": "029a8d8b-adbe-4247-9aaf-4261bdb56930",
+    "atlas": "",
+    "rect": [
+      871,
+      170,
+      1166,
+      2604
+    ],
+    "offset": [
+      -46,
+      28
+    ],
+    "originalSize": [
+      3000,
+      3000
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

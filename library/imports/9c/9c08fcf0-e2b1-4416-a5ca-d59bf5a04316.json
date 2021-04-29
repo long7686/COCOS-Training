@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "RedBunny",
+    "texture": "14ce2d26-bcbb-4024-9f23-a5e93f6d174d",
+    "atlas": "",
+    "rect": [
+      871,
+      170,
+      1166,
+      2604
+    ],
+    "offset": [
+      -46,
+      28
+    ],
+    "originalSize": [
+      3000,
+      3000
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.3",
-  "uuid": "5ac245eb-c3bd-4bbb-985d-e28874edf396",
+  "uuid": "14ce2d26-bcbb-4024-9f23-a5e93f6d174d",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -11,8 +11,8 @@
   "subMetas": {
     "RedBunny": {
       "ver": "1.0.4",
-      "uuid": "7ab87d17-d0a1-4126-b77d-9243ee779b3b",
-      "rawTextureUuid": "5ac245eb-c3bd-4bbb-985d-e28874edf396",
+      "uuid": "9c08fcf0-e2b1-4416-a5ca-d59bf5a04316",
+      "rawTextureUuid": "14ce2d26-bcbb-4024-9f23-a5e93f6d174d",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

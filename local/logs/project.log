@@ -1,0 +1,180 @@
+2021-04-29T02:11:07.806Z - normal: Load ~/.CocosCreator/settings.json
+2021-04-29T02:11:07.852Z - normal: Initializing Asset Database
+2021-04-29T02:11:07.854Z - normal: checking language setting...
+2021-04-29T02:11:07.854Z - normal: Language: en
+2021-04-29T02:11:08.546Z - success: preview server running at http://localhost:7456
+2021-04-29T02:11:08.555Z - success: protocol editor-framework registered
+2021-04-29T02:11:08.555Z - success: protocol app registered
+2021-04-29T02:11:08.555Z - success: protocol theme registered
+2021-04-29T02:11:08.556Z - success: protocol packages registered
+2021-04-29T02:11:08.556Z - success: protocol uuid registerred
+2021-04-29T02:11:08.556Z - success: protocol db registerred
+2021-04-29T02:11:08.556Z - success: protocol thumbnail registerred
+2021-04-29T02:11:08.556Z - success: protocol unpack registerred
+2021-04-29T02:11:08.556Z - success: protocol disable-commonjs registerred
+2021-04-29T02:11:10.452Z - normal: connected!
+2021-04-29T02:11:10.454Z - normal: Check project /Users/gemi/Bunny
+2021-04-29T02:11:10.459Z - normal: Initializing project /Users/gemi/Bunny
+2021-04-29T02:11:10.824Z - normal: Initializing Cocos2d
+2021-04-29T02:11:11.489Z - normal: Initializing engine extends
+2021-04-29T02:11:11.528Z - success: alipay-adapter loaded
+2021-04-29T02:11:11.538Z - success: asset-db-debugger loaded
+2021-04-29T02:11:11.543Z - success: baidu-adapter loaded
+2021-04-29T02:11:11.547Z - success: color-picker loaded
+2021-04-29T02:11:11.713Z - success: fb-audience-network loaded
+2021-04-29T02:11:11.767Z - success: fb-live-stream loaded
+2021-04-29T02:11:11.770Z - success: google-play-instant loaded
+2021-04-29T02:11:11.775Z - success: huawei-runtime loaded
+2021-04-29T02:11:12.009Z - success: cpk-publish loaded
+2021-04-29T02:11:12.011Z - success: jsb-adapter loaded
+2021-04-29T02:11:12.017Z - success: oppo-runtime loaded
+2021-04-29T02:11:12.023Z - success: package-manager loaded
+2021-04-29T02:11:12.169Z - success: qqplay-adapter loaded
+2021-04-29T02:11:12.172Z - success: runtime-dev-tools loaded
+2021-04-29T02:11:12.177Z - success: sdkbox loaded
+2021-04-29T02:11:12.182Z - success: tester loaded
+2021-04-29T02:11:12.187Z - success: ui-kit-preview-extra loaded
+2021-04-29T02:11:12.192Z - success: ui-kit-preview loaded
+2021-04-29T02:11:12.196Z - success: ui-kit loaded
+2021-04-29T02:11:12.202Z - success: vivo-runtime loaded
+2021-04-29T02:11:12.203Z - success: weapp-adapter loaded
+2021-04-29T02:11:12.205Z - success: xiaomi-adapter loaded
+2021-04-29T02:11:12.209Z - success: alipay-minigame loaded
+2021-04-29T02:11:12.249Z - success: assets loaded
+2021-04-29T02:11:12.251Z - success: builder loaded
+2021-04-29T02:11:12.511Z - success: cocos-services loaded
+2021-04-29T02:11:12.516Z - success: console loaded
+2021-04-29T02:11:12.543Z - success: fb-instant-games loaded
+2021-04-29T02:11:12.547Z - success: game-window loaded
+2021-04-29T02:11:12.548Z - success: google-instant-games loaded
+2021-04-29T02:11:12.554Z - success: hierarchy loaded
+2021-04-29T02:11:12.557Z - success: inspector loaded
+2021-04-29T02:11:12.560Z - success: keystore loaded
+2021-04-29T02:11:12.565Z - success: node-library loaded
+2021-04-29T02:11:12.567Z - success: package-asset loaded
+2021-04-29T02:11:12.568Z - success: preferences loaded
+2021-04-29T02:11:12.571Z - success: project-exporter loaded
+2021-04-29T02:11:12.575Z - success: project-importer loaded
+2021-04-29T02:11:12.578Z - success: project-settings loaded
+2021-04-29T02:11:12.582Z - success: scene loaded
+2021-04-29T02:11:12.584Z - success: simulator-debugger loaded
+2021-04-29T02:11:12.586Z - success: sprite-editor loaded
+2021-04-29T02:11:12.592Z - success: store loaded
+2021-04-29T02:11:12.599Z - success: timeline loaded
+2021-04-29T02:11:12.603Z - success: xiaomi-runtime loaded
+2021-04-29T02:11:15.828Z - info: Cocos Services load base data!
+2021-04-29T02:11:16.594Z - normal: Loading packages
+2021-04-29T02:11:16.602Z - normal: Watching packages
+2021-04-29T02:11:16.678Z - normal: Run Application
+2021-04-29T02:29:09.298Z - failed: load script [/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/RedBunny.js] failed : ReferenceError: request is not defined
+    at __define (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/RedBunny.js:8:14)
+    at /Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/RedBunny.js:26:13
+    at Object.<anonymous> (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/RedBunny.js:33:11)
+    at Object.<anonymous> (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/RedBunny.js:36:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2021-04-29T03:21:08.717Z - error: The 'default' value of 'RedBunny.skewVal' should not be used with a 'get' function.
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/RedBunny.js:7:19)
+    at /Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/RedBunny.js:52:13
+    at Object.<anonymous> (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/RedBunny.js:59:11)
+    at Object.<anonymous> (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/RedBunny.js:62:3)
+    at Module._compile (module.js:571:32)
+2021-04-29T03:21:19.131Z - error: The 'default' value of 'RedBunny.skewVal' should not be used with a 'set' function.
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:207:36)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/RedBunny.js:7:19)
+    at /Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/RedBunny.js:52:13
+    at Object.<anonymous> (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/RedBunny.js:59:11)
+    at Object.<anonymous> (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/RedBunny.js:62:3)
+    at Module._compile (module.js:571:32)
+2021-04-29T08:26:58.413Z - failed: load script [Bunny] failed : ReferenceError: ascasc is not defined
+    at __define (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:24:17)
+    at /Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:54:13
+    at Object.<anonymous> (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:61:11)
+    at Object.<anonymous> (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:64:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2021-04-29T08:26:58.415Z - failed: load script [/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js] failed : ReferenceError: ascasc is not defined
+    at __define (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:24:17)
+    at /Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:54:13
+    at Object.<anonymous> (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:61:11)
+    at Object.<anonymous> (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:64:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2021-04-29T08:26:58.415Z - failed: load script [Bunny] failed : ReferenceError: ascasc is not defined
+    at __define (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:24:17)
+    at /Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:54:13
+    at Object.<anonymous> (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:61:11)
+    at Object.<anonymous> (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:64:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2021-04-29T08:26:58.416Z - failed: load script [Bunny] failed : ReferenceError: ascasc is not defined
+    at __define (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:24:17)
+    at /Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:54:13
+    at Object.<anonymous> (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:61:11)
+    at Object.<anonymous> (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:64:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2021-04-29T08:55:07.969Z - failed: [db-task][sync-changes] Failed to import asset /Users/gemi/Bunny/assets/Scripts/RedBunny.js, message: Compile error: SyntaxError: /Users/gemi/Bunny/assets/Scripts/RedBunny.js: Unexpected token, expected , (41:4)
+  39 |         this.node.skewX += this.skewVal;
+  40 |         cc.log(2/(3*dt)
+> 41 |     }
+     |     ^
+  42 |     
+  43 | })
+    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp.expect (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1749:33)
+    at Parser.pp$3.parseCallExpressionArguments (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3564:12)
+    at Parser.pp$3.parseSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3533:31)
+    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
+    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3344:19)
+2021-04-29T08:59:22.838Z - error: [db-task][sync-changes] Failed to delete asset /Users/gemi/Bunny/assets/New Folder
+    at u.o.error (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/utils.js:1:2250)
+    at h.clearImports (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/core/watch.js:1:552)
+    at Object.l.clearImports (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/tasks.js:1:21163)
+    at d (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/core/watch.js:1:508)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:181:20
+    at iterate (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:262:13)
+    at Object.async.forEachOfSeries.async.eachOfSeries (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:281:9)
+    at Object.async.forEachSeries.async.eachSeries (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:214:22)
+    at t.series.e (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/core/watch.js:1:1104)
+2021-04-29T09:13:44.150Z - error: The 'default' value of 'Bunny.jumpForce' should not be used with a 'get' function.
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:7:4)
+    at /Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:52:13
+    at Object.<anonymous> (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:59:11)
+    at Object.<anonymous> (/Users/gemi/Bunny/temp/quick-scripts/assets/Scripts/Bunny.js:62:3)
+    at Module._compile (module.js:571:32)
